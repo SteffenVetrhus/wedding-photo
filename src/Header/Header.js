@@ -6,7 +6,7 @@ import Menu from "./Menu/Menu";
 function Header() {
   const menuItems = [
     { name: "OM", id: 1, children: [], route: "/om" },
-    { name: "FOTOGRAFI", id: 2, children: [], route: "/fotografi" },
+    { name: "FOTO", id: 2, children: [], route: "/fotografi" },
     { name: "SISTE BRYLLUP", id: 3, children: [], route: "/siste" },
     { name: "PRIS & KONTAKT", id: 4, children: [], route: "/kontakt" },
   ];
