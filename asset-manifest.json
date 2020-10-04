@@ -1,27 +1,26 @@
 {
   "files": {
     "main.css": "/wedding-photo/static/css/main.6afc01f2.chunk.css",
-    "main.js": "/wedding-photo/static/js/main.5e786479.chunk.js",
-    "main.js.map": "/wedding-photo/static/js/main.5e786479.chunk.js.map",
+    "main.js": "/wedding-photo/static/js/main.9622fafe.chunk.js",
+    "main.js.map": "/wedding-photo/static/js/main.9622fafe.chunk.js.map",
     "runtime-main.js": "/wedding-photo/static/js/runtime-main.552f9e8f.js",
     "runtime-main.js.map": "/wedding-photo/static/js/runtime-main.552f9e8f.js.map",
-    "static/js/2.21b1c362.chunk.js": "/wedding-photo/static/js/2.21b1c362.chunk.js",
-    "static/js/2.21b1c362.chunk.js.map": "/wedding-photo/static/js/2.21b1c362.chunk.js.map",
+    "static/js/2.f80e4bcb.chunk.js": "/wedding-photo/static/js/2.f80e4bcb.chunk.js",
+    "static/js/2.f80e4bcb.chunk.js.map": "/wedding-photo/static/js/2.f80e4bcb.chunk.js.map",
     "index.html": "/wedding-photo/index.html",
-    "precache-manifest.ecf33f42ed33a4730c5dc389f49dea89.js": "/wedding-photo/precache-manifest.ecf33f42ed33a4730c5dc389f49dea89.js",
+    "precache-manifest.013fa02272db5732eb3891e52a4694e8.js": "/wedding-photo/precache-manifest.013fa02272db5732eb3891e52a4694e8.js",
     "service-worker.js": "/wedding-photo/service-worker.js",
     "static/css/main.6afc01f2.chunk.css.map": "/wedding-photo/static/css/main.6afc01f2.chunk.css.map",
-    "static/js/2.21b1c362.chunk.js.LICENSE.txt": "/wedding-photo/static/js/2.21b1c362.chunk.js.LICENSE.txt",
+    "static/js/2.f80e4bcb.chunk.js.LICENSE.txt": "/wedding-photo/static/js/2.f80e4bcb.chunk.js.LICENSE.txt",
     "static/media/between.jpg": "/wedding-photo/static/media/between.57d3d2f3.jpg",
-    "static/media/ivan.jpg": "/wedding-photo/static/media/ivan.5098f4f4.jpg",
     "static/media/logo.svg": "/wedding-photo/static/media/logo.5d5d9eef.svg",
     "static/media/main.jpg": "/wedding-photo/static/media/main.daa7d9bc.jpg",
     "static/media/steffen.jpg": "/wedding-photo/static/media/steffen.1c7cd2f4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.552f9e8f.js",
-    "static/js/2.21b1c362.chunk.js",
+    "static/js/2.f80e4bcb.chunk.js",
     "static/css/main.6afc01f2.chunk.css",
-    "static/js/main.5e786479.chunk.js"
+    "static/js/main.9622fafe.chunk.js"
   ]
 }
