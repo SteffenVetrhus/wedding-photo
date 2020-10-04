@@ -2,34 +2,27 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Header/Header.js";
-import Content from "./Content/Content.js";
+import Content from "./Pages/Home/Content/Content.js";
 import Footer from "./Footer/Footer.js";
 import { BrowserRouter, Route } from "react-router-dom";
-import MainImage from "./main.jpg";
-import Between from "./between.jpg";
 
+import About from "./Pages/About/About.js";
+import Home from "./Pages/Home/Home.js";
+import Photography from "./Pages/Photography/Photography";
+import Last from "./Pages/Last/Last";
+import Contact from "./Pages/Contact/Contact";
 function App() {
   return (
     <BrowserRouter>
       <div className="wedding-photo-app">
         <Header></Header>
-        <Content
-          url={MainImage}
-          text={"Bryllupsfotografering skal være oppriktig"}
-        ></Content>
-        <Content
-          url={Between}
-          text={
-            "Det beste med bryllupsfotografering er alle øyeblikkene inne i mellom"
-          }
-        ></Content>
 
+        <Route path="/" exact component={Home}></Route>
+        <Route path="/om" exact component={About}></Route>
+        <Route path="/fotografi" exact component={Photography}></Route>
+        <Route path="/tidligere" exact component={Last}></Route>
+        <Route path="/kontakt" exact component={Contact}></Route>
         <Footer></Footer>
-        <Route path="/"></Route>
-        <Route path="/om"></Route>
-        <Route path="/fotografi"></Route>
-        <Route path="/siste"></Route>
-        <Route path="/kontakt"></Route>
       </div>
     </BrowserRouter>
   );

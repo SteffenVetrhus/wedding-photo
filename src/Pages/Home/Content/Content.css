@@ -1,8 +1,8 @@
 .wedding-photo-content {
   display: flex;
-  height: 100%;
   flex-direction: column;
   flex: 1;
+  margin-bottom: 24px;
 }
 
 .wedding-photo-content-header,
@@ -11,7 +11,7 @@
 }
 
 .wedding-photo-content-header {
-  margin-top: 96px;
+  margin-top: 64px;
   margin-bottom: 24px;
 }
 
