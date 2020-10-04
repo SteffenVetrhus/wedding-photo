@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/wedding-photo/static/css/main.e64020bf.chunk.css",
-    "main.js": "/wedding-photo/static/js/main.79677fab.chunk.js",
-    "main.js.map": "/wedding-photo/static/js/main.79677fab.chunk.js.map",
+    "main.css": "/wedding-photo/static/css/main.6afc01f2.chunk.css",
+    "main.js": "/wedding-photo/static/js/main.5e786479.chunk.js",
+    "main.js.map": "/wedding-photo/static/js/main.5e786479.chunk.js.map",
     "runtime-main.js": "/wedding-photo/static/js/runtime-main.552f9e8f.js",
     "runtime-main.js.map": "/wedding-photo/static/js/runtime-main.552f9e8f.js.map",
-    "static/js/2.907f2339.chunk.js": "/wedding-photo/static/js/2.907f2339.chunk.js",
-    "static/js/2.907f2339.chunk.js.map": "/wedding-photo/static/js/2.907f2339.chunk.js.map",
+    "static/js/2.21b1c362.chunk.js": "/wedding-photo/static/js/2.21b1c362.chunk.js",
+    "static/js/2.21b1c362.chunk.js.map": "/wedding-photo/static/js/2.21b1c362.chunk.js.map",
     "index.html": "/wedding-photo/index.html",
-    "precache-manifest.7ca6e9c5a1c83a4d5cdd8a6fa0caf913.js": "/wedding-photo/precache-manifest.7ca6e9c5a1c83a4d5cdd8a6fa0caf913.js",
+    "precache-manifest.ecf33f42ed33a4730c5dc389f49dea89.js": "/wedding-photo/precache-manifest.ecf33f42ed33a4730c5dc389f49dea89.js",
     "service-worker.js": "/wedding-photo/service-worker.js",
-    "static/css/main.e64020bf.chunk.css.map": "/wedding-photo/static/css/main.e64020bf.chunk.css.map",
-    "static/js/2.907f2339.chunk.js.LICENSE.txt": "/wedding-photo/static/js/2.907f2339.chunk.js.LICENSE.txt",
+    "static/css/main.6afc01f2.chunk.css.map": "/wedding-photo/static/css/main.6afc01f2.chunk.css.map",
+    "static/js/2.21b1c362.chunk.js.LICENSE.txt": "/wedding-photo/static/js/2.21b1c362.chunk.js.LICENSE.txt",
     "static/media/between.jpg": "/wedding-photo/static/media/between.57d3d2f3.jpg",
+    "static/media/ivan.jpg": "/wedding-photo/static/media/ivan.5098f4f4.jpg",
     "static/media/logo.svg": "/wedding-photo/static/media/logo.5d5d9eef.svg",
-    "static/media/main.jpg": "/wedding-photo/static/media/main.daa7d9bc.jpg"
+    "static/media/main.jpg": "/wedding-photo/static/media/main.daa7d9bc.jpg",
+    "static/media/steffen.jpg": "/wedding-photo/static/media/steffen.1c7cd2f4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.552f9e8f.js",
-    "static/js/2.907f2339.chunk.js",
-    "static/css/main.e64020bf.chunk.css",
-    "static/js/main.79677fab.chunk.js"
+    "static/js/2.21b1c362.chunk.js",
+    "static/css/main.6afc01f2.chunk.css",
+    "static/js/main.5e786479.chunk.js"
   ]
 }
