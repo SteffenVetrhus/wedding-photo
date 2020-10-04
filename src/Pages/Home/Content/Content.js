@@ -9,7 +9,7 @@ function Content(props) {
         <h2>{props.text}</h2>
       </div>
       <div className="wedding-photo-content-item">
-        <img width="75%" height="auto" src={props.url} />
+        <img width="75%" alt="" height="auto" src={props.url} />
       </div>
     </div>
   );

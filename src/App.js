@@ -1,8 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Header/Header.js";
-import Content from "./Pages/Home/Content/Content.js";
 import Footer from "./Footer/Footer.js";
 import { BrowserRouter, Route } from "react-router-dom";
 

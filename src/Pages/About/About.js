@@ -9,7 +9,7 @@ function About() {
       <h2>Om</h2>
       <div className="wedding-photo-about-content">
         <div className="wedding-photo-about-content-item">
-          <img width="420" height="auto" src={Steffen} />
+          <img width="420" alt="Steffen" height="auto" src={Steffen} />
           <div>
             <p>Navn: Steffen</p>
             <p>Alder: 32</p>
