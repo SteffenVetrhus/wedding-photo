@@ -18,20 +18,6 @@ function About() {
             <p>Nettside: Ingen</p>
           </div>
         </div>
-        <div className="wedding-photo-about-content-item">
-          <img width="420" height="auto" src={Ivan} />
-          <div>
-            <p>Navn: Ivan</p>
-            <p>Alder: 43</p>
-            <p>Yrke: Ux-designer</p>
-            <p>
-              Nettside:{" "}
-              <a href="https://imaeland.no/" target="_blank">
-                imaeland.no
-              </a>
-            </p>
-          </div>
-        </div>
       </div>
     </div>
   );
