@@ -2,7 +2,6 @@ import React from "react";
 
 import "./About.css";
 import Steffen from "./steffen.jpg";
-import Ivan from "./ivan.jpg";
 
 function About() {
   return (
