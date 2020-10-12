@@ -18,3 +18,11 @@
 .wedding-photo-contact-prices-text {
   font-weight: 400;
 }
+
+.wedding-photo-prices-container {
+  display: flex;
+}
+
+.wedding-link {
+  color: blue;
+}
